@@ -16,6 +16,7 @@ function App() {
         <Router>
           <NavigationBar />
           <Switch>
+            <Route exact path="/" component={CustomerList} />
             <Route exact path="/Home" component={Home} />
             <Route exact path="/customerlist" component={CustomerList} />
             <Route exact path="/todolist" component={TodoList} />

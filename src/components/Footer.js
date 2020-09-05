@@ -11,7 +11,7 @@ function Footer() {
               Nada404
             </span>
             , Using <i className="fab fa-react" /> React JS &amp; Redux JS
-            integrated with external Onmyoji souls
+            integrated with external Jinkela souls
           </div>
         </div>
       </div>
